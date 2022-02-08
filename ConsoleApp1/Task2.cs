@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace Tasks1
 {
     public struct S : IDisposable
     //public class S : IDisposable
@@ -20,7 +20,7 @@ namespace ConsoleApp1
         }
     }
 
-    public class Tasks2
+    public class Task2
     {
         static public void CheckIt()
         {

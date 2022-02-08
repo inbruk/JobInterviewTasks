@@ -4,14 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace Tasks1
 {   
     internal class Class1
     {
         static public void Main()
         {
             // Task1.CheckIt();
-            Tasks2.CheckIt();
+            // Task2.CheckIt();
+            // Task3.CheckIt();
+            Task4.CheckIt();
         }
     }
 }
