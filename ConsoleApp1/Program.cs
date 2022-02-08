@@ -10,7 +10,8 @@ namespace ConsoleApp1
     {
         static public void Main()
         {
-            Task1.CheckIt();
+            // Task1.CheckIt();
+            Tasks2.CheckIt();
         }
     }
 }
