@@ -16,7 +16,8 @@ namespace Tasks1
             // Task4.CheckIt();
             // Task5.CheckIt();
             // Task6.CheckIt();
-            Task7.CheckIt();
+            // Task7.CheckIt();
+            Task8.CheckIt();
         }
     }
 }
